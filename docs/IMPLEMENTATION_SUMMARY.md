@@ -499,7 +499,7 @@ npm run start:dev
 1. **Setup:**
 
    ```bash
-   git clone https://github.com/KellynCodes/puppeteer.git
+   git clone https://github.com/KellynCodes/puppeteer-automation.git
    cd paramount-automation
    npm install
 

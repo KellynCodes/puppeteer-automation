@@ -24,7 +24,7 @@ A NestJS application that automates card management tasks on Paramount+ using Pu
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/KellynCodes/puppeteer.git
+git clone https://github.com/KellynCodes/puppeteer-automation.git
 cd puppeteer
 ```
 
